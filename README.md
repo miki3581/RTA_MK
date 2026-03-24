@@ -1,2 +1,1 @@
-# RTA_MK
-Real Time Analisys project for class
+# Analiza danych w czasie rzeczywistym
